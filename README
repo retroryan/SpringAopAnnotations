@@ -1,0 +1,1 @@
+This is a basic java project to show the use of annotations with Spring AOP.  It uses the AspectJ 5 annotations library and Spring 2.5 AOP.  For more information see my blog at www.grandcloud.com
